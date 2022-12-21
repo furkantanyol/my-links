@@ -1,0 +1,32 @@
+{
+  "name": "Furkan Tanyol",
+  "description": "Senior Software Engineer @ Secure Code Warrior",
+  "image_url": "https://media.licdn.com/dms/image/C5603AQFbiCjMfIdnvg/profile-displayphoto-shrink_800_800/0/1568193236845?e=1677110400&v=beta&t=fnp6aYuIuYdQeOZreGf6wh2_nsm_V-naR0EbiML0FJY",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/furkan-tanyol",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/furkantanyol",
+      "icon": "github"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/furkantanyol",
+      "icon": "twitter"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://instagram.com/ftanyol",
+      "icon": "instagram"
+    },
+    {
+      "title": "Medium",
+      "url": "https://medium.com/@furkantanyol",
+      "icon": "medium"
+    },
+  ]
+}
